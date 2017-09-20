@@ -1,0 +1,28 @@
+#header{
+   
+    height: 50px;
+    color: white;
+}
+
+#container{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+#leftSlider{
+    width: 40%;
+}
+
+#rightSlider{
+    width: 40%;
+    color: white;
+}
+
+body{
+    background-image: url('images/bg2.jpeg');
+}
+
+table{
+    color : white;
+}
